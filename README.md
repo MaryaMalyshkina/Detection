@@ -1,5 +1,6 @@
 # Detection
 Detection of doors and windows on a floor plan
+Gradio - приложение для демонстрации результата работы [https://huggingface.co/spaces/DataScienceLover/Doors_windows]
 
 Проект посвящен распознаванию дверных и оконных проемов и определению их координат.
 

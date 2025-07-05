@@ -13,7 +13,7 @@ Detection of doors and windows on a floor plan
 | Исследования             | GoogleColab                          |
 
 Структура проекта:
-
+```
 plan_points/
 ├── Docker/
 │   ├── Dockerfile                # Docker-образ для приложения
@@ -27,4 +27,4 @@ plan_points/
 ├── screenshot.png                # Скриншот интерфейса
 ├── README.md                     # Документация по проекту
 └── .gitignore                    # Исключения для git
-
+```

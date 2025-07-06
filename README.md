@@ -1,9 +1,9 @@
 # Detection
-Detection of doors and windows on a floor plan
+Проект посвящен распознаванию дверных и оконных проемов и определению их координат.
 
 Gradio - приложение для демонстрации результата работы [по ссылке](https://huggingface.co/spaces/DataScienceLover/Doors_windows)
 
-Проект посвящен распознаванию дверных и оконных проемов и определению их координат.
+
 
 Стек технологий
 
@@ -26,7 +26,7 @@ plan_points/
 │   └── _dockerignore             # Исключения для Docker
 ├── планы помещений/              # Примеры планов (подпапки: хорошие, средне, плохие)
 ├── PlanPoints_yolo_11.ipynb      # Jupyter Notebook для экспериментов
-├── screenshot.png                # Скриншот интерфейса
+├── example.png                # Скриншот интерфейса
 ├── README.md                     # Документация по проекту
 └── .gitignore                    # Исключения для git
 ```
